@@ -1,4 +1,4 @@
-# Python Bankası - Console Uygulaması
+# Bankacılık- Console Uygulaması
 
 Bu proje basit bir banka console uygulamasıdır. Öğrencilerin öğrendiği
 Python konularını (değişken, döngü, koşul, liste, sözlük, fonksiyon,
